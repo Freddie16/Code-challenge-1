@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "code-challenges",
+  "description": "{   \"name\": \"code-challenge-1\",   \"version\": \"1.0.0\",   \"description\": \" Challenge 1: Student Grade Generator (Toy Problem) Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade:",
+  "version": "1.0.0",
+  "main": "studentgradegenerator.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Freddie16/Code-challenge-1.git"
+  },
+  "author": "Fred Murigi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freddie16/Code-challenge-1/issues"
+  },
+  "homepage": "https://github.com/Freddie16/Code-challenge-1#readme"
+}
