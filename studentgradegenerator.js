@@ -1,6 +1,6 @@
 //The total score for the test.
 const prompt = require("prompt-sync")()
-// The average score for the test.
+// Input marks .
 let marks = prompt("Enter your marks:")
 //Comparing test scores with grade using conditional statements.
 if (marks >= 79 && marks <= 100) {
